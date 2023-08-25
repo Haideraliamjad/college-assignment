@@ -1,2 +1,18 @@
-# College Assignment
-The objectives of this assignment to know the use of git and GitHub and its work flow 
+
+### Programming Fundamentals Assignment(s)
+
+This repository contain the assignments of the subject programming fundamentals
+
+
+### Technology Stack
+
+Flowgrithm
+
+
+
+## Lessons Learned
+
+* How to track project versions
+* How to create flowcharts using flowgrithm
+
+
