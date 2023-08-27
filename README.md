@@ -6,13 +6,13 @@ This repository contain the assignments of the subject programming fundamentals
 
 ### Technology Stack
 
-Flowgrithm
+Flowgorithm
 
 
 
 ## Lessons Learned
 
 * How to track project versions
-* How to create flowcharts using flowgrithm
+* How to create flowcharts using flowgorithm
 
 
