@@ -1,7 +1,4 @@
-/*
-@title : Find the size of datatype in cpp
-@written By : Haider Ali Amjad
-*/
+
 #include <iostream>
 using namespace std;
 int main()

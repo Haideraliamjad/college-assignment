@@ -1,7 +1,4 @@
-/*
-@title : Programme to find the type of any variable
-@written By : Haider Ali Amjad
-*/
+
 #include <iostream>
 #include <typeinfo>
 using namespace std;

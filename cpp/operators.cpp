@@ -1,7 +1,4 @@
-/*
-@title : Operators in cpp
-@written By : Haider Ali Amjad
-*/
+
 #include <iostream>
 using namespace std;
 int main()
